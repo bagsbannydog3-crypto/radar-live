@@ -1,0 +1,471 @@
+{
+ "updated_at": "2026-10-31T14:01:24Z",
+ "note": "crypto-radar 项目型观察池全部成员（公开信息，只读）；is_new=24 小时内新进，待推特核验",
+ "candidates": [
+  {
+   "rank": 1,
+   "chain": "solana",
+   "contract_address": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump",
+   "symbol": "Dacity",
+   "name": "Dacity Coin",
+   "website": "https://finance.yahoo.com/markets/crypto/articles/gta-6-trailer-features-dacity-131604628.html",
+   "x_url": "https://x.com/dacitygta",
+   "entered_at": "2026-10-28T01:06:04Z",
+   "is_new": false,
+   "verify_id": "solana:nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump:2026-10-28T01:06:04Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门",
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 2,
+   "chain": "bsc",
+   "contract_address": "0x0c6302401aa5325c2e36f170f52c00b1d220b405",
+   "symbol": "GANG",
+   "name": "Gang",
+   "website": "https://gang.fun",
+   "x_url": "https://x.com/gangdotfun",
+   "entered_at": "2026-10-30T13:51:11Z",
+   "is_new": false,
+   "verify_id": "bsc:0x0c6302401aa5325c2e36f170f52c00b1d220b405:2026-10-30T13:51:11Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": true,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 3,
+   "chain": "solana",
+   "contract_address": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "symbol": "GATO",
+   "name": "GTA6CAT",
+   "website": "https://thegta6cat.com/",
+   "x_url": "https://x.com/TheGTA6cat",
+   "entered_at": "2026-10-26T19:26:27Z",
+   "is_new": false,
+   "verify_id": "solana:HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump:2026-10-26T19:26:27Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 4,
+   "chain": "solana",
+   "contract_address": "5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump",
+   "symbol": "AgenC",
+   "name": "AgenC",
+   "website": "https://agenc.tech/",
+   "x_url": "https://x.com/a_g_e_n_c",
+   "entered_at": "2026-10-30T11:11:04Z",
+   "is_new": false,
+   "verify_id": "solana:5yC9BM8KUsJTPbWPLfA2N8qH1s9V8DQ3Vcw1G6Jdpump:2026-10-30T11:11:04Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": true,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门",
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 5,
+   "chain": "solana",
+   "contract_address": "BZFYNPeQAEW3HWQ4DNsTVahC1n4ZjTgn6jB2nnBbB96W",
+   "symbol": "SAPLING",
+   "name": "Sapling",
+   "website": "https://sapling.cash/",
+   "x_url": "https://x.com/saplingdotcash",
+   "entered_at": "2026-10-28T16:51:06Z",
+   "is_new": false,
+   "verify_id": "solana:BZFYNPeQAEW3HWQ4DNsTVahC1n4ZjTgn6jB2nnBbB96W:2026-10-28T16:51:06Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门",
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 6,
+   "chain": "bsc",
+   "contract_address": "0x2a846aaaf896ef393ccb76398c1d96ea97374444",
+   "symbol": "BORT",
+   "name": "BORT",
+   "website": "https://www.bortbsc.xyz",
+   "x_url": "https://x.com/BortOnBsc",
+   "entered_at": "2026-10-27T00:46:06Z",
+   "is_new": false,
+   "verify_id": "bsc:0x2a846aaaf896ef393ccb76398c1d96ea97374444:2026-10-27T00:46:06Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 7,
+   "chain": "bsc",
+   "contract_address": "0x14f6a94909c407854390aa2d2462a3095d317777",
+   "symbol": "旺柴",
+   "name": "WangChai",
+   "website": "https://www.wangchai.io/",
+   "x_url": "https://x.com/wangchaionbnb",
+   "entered_at": "2026-10-29T22:46:41Z",
+   "is_new": false,
+   "verify_id": "bsc:0x14f6a94909c407854390aa2d2462a3095d317777:2026-10-29T22:46:41Z",
+   "project_checks": {
+    "links": true,
+    "website": null,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门",
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 8,
+   "chain": "solana",
+   "contract_address": "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "symbol": "DESSA",
+   "name": "Dessa",
+   "website": "https://www.dessatalks.space/",
+   "x_url": "https://x.com/DessaOnSOL",
+   "entered_at": "2026-10-30T08:06:10Z",
+   "is_new": false,
+   "verify_id": "solana:npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump:2026-10-30T08:06:10Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 9,
+   "chain": "base",
+   "contract_address": "0x6bd83abc39391af1e24826e90237c4bd3468b5d2",
+   "symbol": "SLC",
+   "name": "Silencio",
+   "website": "https://www.silencio.network/",
+   "x_url": "https://x.com/silencioNetwork",
+   "entered_at": "2026-10-26T23:25:59Z",
+   "is_new": false,
+   "verify_id": "base:0x6bd83abc39391af1e24826e90237c4bd3468b5d2:2026-10-26T23:25:59Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 10,
+   "chain": "ethereum",
+   "contract_address": "0x9ca8530ca349c966fe9ef903df17a75b8a778927",
+   "symbol": "LCAI",
+   "name": "LightchainAI",
+   "website": "https://lightchain.ai",
+   "x_url": null,
+   "entered_at": "2026-10-27T05:51:21Z",
+   "is_new": false,
+   "verify_id": "ethereum:0x9ca8530ca349c966fe9ef903df17a75b8a778927:2026-10-27T05:51:21Z",
+   "project_checks": {
+    "links": false,
+    "website": true,
+    "code": true,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 11,
+   "chain": "solana",
+   "contract_address": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+   "symbol": "GLITCH",
+   "name": "Infinite Money Glitch",
+   "website": "https://glitchonsol.com/",
+   "x_url": "https://x.com/GlitchOnSolana_",
+   "entered_at": "2026-10-30T23:01:08Z",
+   "is_new": true,
+   "verify_id": "solana:8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump:2026-10-30T23:01:08Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 12,
+   "chain": "base",
+   "contract_address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+   "symbol": "EDEL",
+   "name": "Edel",
+   "website": "https://www.edel.finance/",
+   "x_url": "https://x.com/edeldotfinance",
+   "entered_at": "2026-10-28T03:31:12Z",
+   "is_new": false,
+   "verify_id": "base:0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95:2026-10-28T03:31:12Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 13,
+   "chain": "solana",
+   "contract_address": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
+   "symbol": "NIO",
+   "name": "Nigga Its Over",
+   "website": "https://niggaitsover.vercel.app/",
+   "x_url": "https://x.com/idofentanyl/status/2087206048780157268",
+   "entered_at": "2026-10-30T17:16:11Z",
+   "is_new": true,
+   "verify_id": "solana:7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump:2026-10-30T17:16:11Z",
+   "project_checks": {
+    "links": true,
+    "website": false,
+    "code": false,
+    "survival": true,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门",
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 14,
+   "chain": "robinhood",
+   "contract_address": "0x1a911bb954daa9cb38513423075be74450351e18",
+   "symbol": "MONITOR",
+   "name": "The Situation",
+   "website": "https://www.monitorsituation.xyz/",
+   "x_url": "https://x.com/monitoringmeme?s=11",
+   "entered_at": "2026-10-29T20:46:30Z",
+   "is_new": false,
+   "verify_id": "robinhood:0x1a911bb954daa9cb38513423075be74450351e18:2026-10-29T20:46:30Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "币安 Web3 异动榜"
+   ]
+  },
+  {
+   "rank": 15,
+   "chain": "ethereum",
+   "contract_address": "0x6d34013052c8fe696805dde682ae8086be5655cc",
+   "symbol": "SI",
+   "name": "Super Inu",
+   "website": "https://www.superinuerc20.vip",
+   "x_url": "https://x.com/SuperInuETH",
+   "entered_at": "2026-10-29T08:51:04Z",
+   "is_new": false,
+   "verify_id": "ethereum:0x6d34013052c8fe696805dde682ae8086be5655cc:2026-10-29T08:51:04Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": false,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 16,
+   "chain": "solana",
+   "contract_address": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+   "symbol": "JOB",
+   "name": "DogWifJob",
+   "website": "https://dogwifjob.com/",
+   "x_url": "https://x.com/dogwifjob_sol",
+   "entered_at": "2026-10-28T16:46:02Z",
+   "is_new": false,
+   "verify_id": "solana:9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump:2026-10-28T16:46:02Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": false,
+    "holders": true,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 17,
+   "chain": "bsc",
+   "contract_address": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+   "symbol": "PARTI",
+   "name": "PARTI Token",
+   "website": "https://particle.network/",
+   "x_url": "https://x.com/ParticleNtwrk",
+   "entered_at": "2026-10-30T09:11:10Z",
+   "is_new": false,
+   "verify_id": "bsc:0x59264f02d301281f3393e1385c0aefd446eb0f00:2026-10-30T09:11:10Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": false,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 18,
+   "chain": "ethereum",
+   "contract_address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+   "symbol": "APE",
+   "name": "ApeCoin",
+   "website": "https://apechain.com/",
+   "x_url": "https://x.com/apecoin",
+   "entered_at": "2026-10-31T01:16:07Z",
+   "is_new": true,
+   "verify_id": "ethereum:0x4d224452801aced8b2f0aebe155379bb5d594381:2026-10-31T01:16:07Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  },
+  {
+   "rank": 19,
+   "chain": "solana",
+   "contract_address": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
+   "symbol": "jeff",
+   "name": "jeff",
+   "website": "https://justjeff.xyz/",
+   "x_url": "https://x.com/i/communities/1910124515570381076",
+   "entered_at": "2026-10-30T23:01:08Z",
+   "is_new": true,
+   "verify_id": "solana:HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k:2026-10-30T23:01:08Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": false,
+    "original": true
+   },
+   "heat": [
+    "pump.fun 热门"
+   ]
+  },
+  {
+   "rank": 20,
+   "chain": "bsc",
+   "contract_address": "0xc269d59a0d608ea0bd672f2f4616c372d8554444",
+   "symbol": "ClipX",
+   "name": "ClipX",
+   "website": "https://clipx.app/",
+   "x_url": "https://x.com/ClipX0_",
+   "entered_at": "2026-10-31T01:31:14Z",
+   "is_new": true,
+   "verify_id": "bsc:0xc269d59a0d608ea0bd672f2f4616c372d8554444:2026-10-31T01:31:14Z",
+   "project_checks": {
+    "links": true,
+    "website": true,
+    "code": false,
+    "survival": true,
+    "holders": null,
+    "original": true
+   },
+   "heat": [
+    "GeckoTerminal 热门"
+   ]
+  }
+ ]
+}
